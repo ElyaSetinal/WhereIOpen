@@ -18,7 +18,7 @@
 ## 사용 데이터(23-08-04 기준)
 [서울시 상권분석서비스(상권-추정매출)](https://data.seoul.go.kr/dataList/OA-15572/A/1/datasetView.do)
 
-[스마트서울 도시데이터 센서(S-DoT) 유동인구 측정 정보](https://data.seoul.go.kr/dataList/OA-15964/S/1/datasetView.do#)
+[서울교통공사 연도별 일별 시간대별 역별 승하차 인원](https://data.seoul.go.kr/dataList/OA-12921/F/1/datasetView.do#)
 
 ## 버전
 - 
